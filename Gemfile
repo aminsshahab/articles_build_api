@@ -18,9 +18,9 @@ gem 'rake'
 
 gem 'shotgun'
 
-gem 'factory_girl'
-gem 'rspec'
-gem 'faker'
+# gem 'factory_girl'
+# gem 'rspec'
+# gem 'faker'
 
 group :test do
   gem 'shoulda-matchers'

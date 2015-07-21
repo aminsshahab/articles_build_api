@@ -18,6 +18,9 @@ gem 'rake'
 
 gem 'shotgun'
 
+gem 'factory_girl'
+gem 'rspec'
+
 group :test do
   gem 'shoulda-matchers'
   gem 'rack-test'
